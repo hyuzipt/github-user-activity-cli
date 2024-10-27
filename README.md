@@ -1,2 +1,3 @@
-# github-user-activity-cli
-GitHub User Activity Project for Roadmap.sh
+# GitHub User Activity CLI
+
+https://roadmap.sh/projects/github-user-activity
